@@ -1,0 +1,143 @@
+	* {
+		margin: 0; 
+		padding: 0;
+		font-family: Roboto, Arial;
+		box-sizing: border-box;
+	}
+	body {background-color: #ffffff;
+	border-radius: 10px
+	}
+	
+	#wrapper {
+		max-width: 1000px;
+		margin: 0 auto;
+		background-color: white;
+	}
+	
+	article {
+		margin-top:30px;
+		margin-bottom:20px;
+		padding: 0 20px;
+		border-radius; 10px;
+		font-size: 30px;
+	}
+	section h1 {
+		background-color:#ffffff
+	}
+	section h2 {
+		font-size: 35px;
+		text-align: center;
+		margin: 0 10% 20px 10%;
+		padding-bottom: 10px;
+		border-bottom: 3px solid green;
+	}
+	.tw:hover {
+		background-color: #FDD700;
+	}
+	a.tw {
+		padding: 8px 10px;
+		border-style: none;
+		margin-top: 10px;
+		background-color: lightblue;
+		border-raius: 10px;
+		box-shadow: 0 0 0 0;
+		font-size: 16px;
+		font-family: arial;
+		text-decoration: none;
+		margin: 0 auto;
+		color: red;
+		width: 50%
+	}
+	
+	a.l {
+		padding: 8px 10px;
+		border-style: none;
+		margin-top: 10px;
+		
+		font-size: 16px;
+		font-family: arial;
+		text-decoration: none;
+		margin: auto;
+		color: rgb(0, 0, 0);
+	}
+	
+	article h1 {
+		font-size: 30px;
+		text-align: center;
+		margin: 0 10% 20px 10%;
+		padding-bottom: 15px;
+		border-bottom: 2px solid crimson;
+	}
+	ul {
+		font-size: 20px;
+		text-align: left;
+		margin: 0 50% 1px 10%;
+		padding-bottom: 5px;	
+	}
+	footer {
+		height: 40px;
+		background-color: lightgray;
+		color: red;
+		line-height: 40px;
+		text-align: center;
+		margin-top: 10px;
+	}
+	ol {
+  list-style-type:none;
+  padding:0;
+ margin: 0 5% 1px 5%;
+  font-size:18px;
+  height:2em;
+  line-height:2em;
+  text-align:center;
+  border-radius: 
+}
+
+ol a {
+  display:block;
+  color:#000;
+  text-decoration:none;
+  padding:0 5px;
+  border-radius: ;
+  margin: 0 10% 1px 10%;
+}
+ol > li > ul {
+  list-style-type:none;
+  padding:0;
+  margin: 0 10% 1px 10%;
+  border-radius: 5
+}
+ol > li:first-child {
+ margin: 0 10% 1px 10%;
+  border-radius: 
+}
+ol > li > ul > li > a {
+  border-top:2px solid #fff;
+  border-radius: 
+}
+ol > li > ul > li {
+  background-color:#EEE;
+  border-radius: 
+}
+ol > li > ul {
+  display:none;
+  border-radius: 
+}
+
+ol > li:hover > ul {
+  display:block;
+  border-radius: 
+}
+
+ol > li {
+  float:;
+  background-color:#FDD700;
+  width:150px;
+  margin: 0 10% 1px 10%;
+  height:2em;
+  border-radius: 
+}
+	
+	
+	
+	
